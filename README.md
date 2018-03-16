@@ -13,7 +13,23 @@
 原博客链接：http://blog.csdn.net/a1dark/article/details/11714009
 
 OJ上的一些水题(可用来练手和增加自信) 
-(poj3299,poj2159,poj2739,poj1083,poj2262,poj1503,poj3006,poj2255,poj3094)
+poj3299：http://poj.org/problem?id=3299 ；
+
+poj2159
+
+poj2739
+
+poj1083
+
+poj2262
+
+poj1503
+
+poj3006
+
+poj2255
+
+poj3094
 初期:
 
 一.基本算法: 
